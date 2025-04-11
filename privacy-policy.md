@@ -2,7 +2,7 @@
 
 **Last Updated: April 11, 2025**
 
-Thank you for using our Video Browser and Activity Tracking App (hereafter referred to as "App"). This Privacy Policy explains how we collect, use, store, and protect your personal information, as well as your rights regarding this information.
+Thank you for using our Browser and Activity Tracking App (hereafter referred to as "App"). This Privacy Policy explains how we collect, use, store, and protect your personal information, as well as your rights regarding this information.
 
 Please read this Privacy Policy carefully before using our App. By downloading, installing, or using this App, you agree to the data processing activities described in this Privacy Policy.
 
